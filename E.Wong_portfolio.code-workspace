@@ -6,6 +6,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "E.Wong_portfolio"
+		"liveServer.settings.multiRootWorkspaceName": "E.Wong_portfolio",
+		"liveServer.settings.port": 5501
 	}
 }
